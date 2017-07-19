@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<class>
+	<student rollno="1">
+		<firstname>Jay</firstname>
+		<lastname>Modi</lastname>
+		<address>
+			<street>3605 Misty</street>
+			<zip>32901</zip>
+		</address>
+	</student>
+	<student rollno="2">
+		<firstname>jack</firstname>
+		<lastname>modi</lastname>
+	</student>
+</class>
